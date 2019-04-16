@@ -1,2 +1,5 @@
-Base path: C:/Program Files/Unity/Editor/Data
+Base path: D:/Unity安装文件/5.6/Unity/Editor/Data
 Cmd: initializeCompiler
+Cmd: preprocess
+  error: 2 plat 20 at (18): Unexpected token uniform. Expected one of: ',' ';'
+  insize=979 outsize=553 ok=0

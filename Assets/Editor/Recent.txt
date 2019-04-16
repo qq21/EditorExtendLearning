@@ -1,1 +1,1 @@
-Assets/TestTools/Cube.prefab
+Assets/Scene/RayButton.unity
